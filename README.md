@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Application de prise de notes avec connexion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Application de prise de notes.\
+Connexion/Inscription avec Firebase.\
+Front avec Bootstrap.\
+
 
 ## Available Scripts
 
