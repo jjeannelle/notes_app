@@ -2,7 +2,7 @@
 
 Application de prise de notes.\
 Connexion/Inscription avec Firebase.\
-Front avec Bootstrap.\
+Front avec Bootstrap.
 
 
 ## Available Scripts
